@@ -1,0 +1,2 @@
+# IDENTITYAPP
+Proje Asp.Net Core Mvc  ile IdentityApp projesidir. Veritabanı SQLite kullanılmıştır. Projede kullanıcı listesi görüntüleme , kullanıcı ekleme ,silme,güncelleştirme,role ekleme ,kullanıcı role ilişkilendirmesi, authentication, authorization ,mail doğrulama işlemlerini içermektedir.
